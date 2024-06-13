@@ -1,0 +1,6 @@
+Nume sectieORL Cod sectie1 Nr Pacienti 2
+Nume sectieCardiologie Cod sectie2 Nr Pacienti 1
+Nume sectiePneumologie Cod sectie3 Nr Pacienti 0
+Nume sectieGinecologie Cod sectie4 Nr Pacienti 1
+Nume sectieBoli infectioase Cod sectie5 Nr Pacienti 1
+Nume sectieTerapie intensiva Cod sectie6 Nr Pacienti 2

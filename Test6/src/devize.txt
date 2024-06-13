@@ -1,0 +1,16 @@
+COd cap:1
+Cod santier:1, Val:26900.0
+Cod santier:2, Val:13000.0
+Cod santier:3, Val:18000.0
+Cod santier:4, Val:10500.0
+Cod santier:5, Val:2400.0
+
+COd cap:2
+Cod santier:1, Val:12000.0
+Cod santier:2, Val:12500.0
+Cod santier:4, Val:600.0
+Cod santier:6, Val:7500.0
+
+COd cap:3
+Cod santier:4, Val:700.0
+
